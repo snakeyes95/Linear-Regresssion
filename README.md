@@ -1,2 +1,2 @@
 # Linear-Regresssion
-Python and R Linear Regression Implementation
+Linear-Regression implementation in python and R.
